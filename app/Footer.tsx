@@ -72,7 +72,7 @@ export default  function Footer() {
                     <li>2 Woodward Ave, Rm 644, Detroit, MI 48226</li>
                     <li>Call Center</li>
                     <li>+1 725 304 5857</li>
-                    <li>shiparamaxlogistics@post.com</li>
+                    <li>shiparamexlogistics@post.com</li>
                 </ul>
                  <div className='subscribe'>
                     <input type="text" name="" id="" placeholder='subscribe....'/>

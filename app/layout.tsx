@@ -20,7 +20,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "shiparamex",
+  title: "Shiparama",
   description: "Your reliable shipping partner",
 };
 

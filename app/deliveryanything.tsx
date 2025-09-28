@@ -40,7 +40,7 @@ export default function Deliverynything() {
                       <span className="icons"><SlLike /></span>
                       <div>
                         <p>Ocean Freight</p>
-                        <span>When it comes to transporting large quantities of goods across long distances, ocean freight is a trusted and cost-effective solution. At Shiparamalogistics  & Security Company., we specialize in providing reliable.</span>
+                        <span>When it comes to transporting large quantities of goods across long distances, ocean freight is a trusted and cost-effective solution. At Shiparamexlogistics  & Security Company., we specialize in providing reliable.</span>
                       </div>
                     </div>
             
@@ -48,7 +48,7 @@ export default function Deliverynything() {
                       <span className="icons"><IoPersonSharp /></span>
                       <div>
                         <p>Packaging & Storage</p>
-                        <span>When it comes to transporting large quantities of goods across long distances, ocean freight is a trusted and cost-effective solution. At Shiparamalogistics  & Security Company., we specialize in providing reliable</span>
+                        <span>When it comes to transporting large quantities of goods across long distances, ocean freight is a trusted and cost-effective solution. At Shiparamexlogistics  & Security Company., we specialize in providing reliable</span>
                       </div>
                     </div>
                   </div>

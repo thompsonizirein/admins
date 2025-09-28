@@ -62,13 +62,13 @@ export default function Faq(){
 
              <div className='peopelask'>
                 <div className='askquestions' onClick={openclose}>
-                    <span>What services does Shiparamalogistics  & Security Company provide?</span>
+                    <span>What services does Shiparamexlogistics  & Security Company provide?</span>
                     <span style={{fontSize: '30px'}}>
                         {openClose ? <GrFormClose />:<MdAddCircleOutline />}
                         </span>
                 </div>
                 {openClose && (
-                <div><p>Shiparamalogistics  & Security Company offers a wide range of logistics services, including international and domestic shipping, freight forwarding, warehousing, customs clearance, supply chain management, and express delivery.</p></div>
+                <div><p>Shiparamexlogistics  & Security Company offers a wide range of logistics services, including international and domestic shipping, freight forwarding, warehousing, customs clearance, supply chain management, and express delivery.</p></div>
                 )}
              </div>
 
@@ -131,7 +131,7 @@ export default function Faq(){
                         </span>
                 </div>
                 {openCose && (
-                <div><p>Shiparamalogistics  & Security Company has extensive experience in customs clearance procedures. Our team will guide you through the necessary documentation and requirements for smooth customs clearance. We handle the necessary paperwork and ensure compliance with customs regulations to minimize delays.</p></div>
+                <div><p>Shiparamexlogistics  & Security Company has extensive experience in customs clearance procedures. Our team will guide you through the necessary documentation and requirements for smooth customs clearance. We handle the necessary paperwork and ensure compliance with customs regulations to minimize delays.</p></div>
                 )}
              </div>
 

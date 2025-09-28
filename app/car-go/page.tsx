@@ -49,7 +49,7 @@ export default function Cargo() {
   <div className="container">
     <h2>Introducing Road Freight Solutions</h2>
     <p style={{marginBlock: '1rem'}}>
-      Shiparamalogistics  & Security Company offers comprehensive road freight solutions to meet the diverse transportation needs of businesses and individuals. As a trusted logistics partner, we understand the significance of road transportation in connecting regions, facilitating trade, and ensuring timely deliveries. With our extensive network, experienced team, and commitment to excellence, we provide reliable and cost-effective road freight services tailored to our clients specific requirements.
+      Shiparamexlogistics  & Security Company offers comprehensive road freight solutions to meet the diverse transportation needs of businesses and individuals. As a trusted logistics partner, we understand the significance of road transportation in connecting regions, facilitating trade, and ensuring timely deliveries. With our extensive network, experienced team, and commitment to excellence, we provide reliable and cost-effective road freight services tailored to our clients specific requirements.
     </p>
 
     <div className="packaging">
@@ -80,13 +80,13 @@ export default function Cargo() {
         We aim to provide road freight solutions that are both cost-efficient and environmentally responsible. By optimizing routes and utilizing eco-friendly practices, we help reduce transportation costs while minimizing the environmental impact of our operations.
       </p>
 
-      <h4>Experience the Shiparamalogistics  & Security Company Difference</h4>
+      <h4>Experience the Shiparamexlogistics  & Security Company Difference</h4>
       <p>
-        When it comes to road freight, Shiparamalogistics  & Security Company is your reliable partner. With our commitment to excellence, extensive network, and customer-focused approach, we deliver transportation solutions that meet and exceed expectations. Whether your shipment is urgent or complex, we ensure smooth, secure, and timely deliveries.
+        When it comes to road freight, Shiparamexlogistics  & Security Company is your reliable partner. With our commitment to excellence, extensive network, and customer-focused approach, we deliver transportation solutions that meet and exceed expectations. Whether your shipment is urgent or complex, we ensure smooth, secure, and timely deliveries.
       </p>
 
       <p>
-        Contact us today to experience the Shiparamalogistics  & Security Company difference in road freight transportation.
+        Contact us today to experience the Shiparamexlogistics  & Security Company difference in road freight transportation.
       </p>
     </div>
   </div>

@@ -43,7 +43,7 @@ export default function Packaging() {
   <div className="container">
     <h2>Packaging & Storage Solutions</h2>
     <p>
-      At Shiparamalogistics  & Security Company, we recognize that effective packaging 
+      At Shiparamexlogistics  & Security Company, we recognize that effective packaging 
       and storage are integral components of the logistics process. As a leading logistics company, 
       we go above and beyond in providing comprehensive packaging and storage solutions to streamline 
       your supply chain operations. With our expertise and commitment to excellence, we ensure that 

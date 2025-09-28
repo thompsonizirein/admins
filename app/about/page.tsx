@@ -31,7 +31,7 @@ export default function Faq() {
           <h4>25 years of experience in Logistics services</h4>
 
           <p>
-            Welcome to <strong>Shiparamalogistics  & Security Company</strong>,
+            Welcome to <strong>Shiparamexlogistics  & Security Company</strong>,
             a trusted leader in the logistics industry. We specialize in
             providing comprehensive and customized logistics solutions that
             drive efficiency and optimize supply chain operations for our valued
@@ -39,7 +39,7 @@ export default function Faq() {
           </p>
 
           <p>
-            At <strong>Shiparamalogistics  & Security Company</strong>, we pride
+            At <strong>Shiparamexlogistics  & Security Company</strong>, we pride
             ourselves on our unwavering commitment to excellence, reliability,
             and customer satisfaction. With years of experience in the industry,
             we have established ourselves as a preferred partner for businesses

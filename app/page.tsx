@@ -142,7 +142,7 @@ const gotofaq = () => {
 
       <div className="middlewrite" data-aos="zoom-in-up">
         <div className="track">
-          <span>WELCOME TO Shiparamalogistics  & SECURITY COMPANY</span>
+          <span>WELCOME TO Shiparamexlogistics  & SECURITY COMPANY</span>
           <span>Unbeatable Tracking and Transport Service</span>
 
           <div className="trackinID">
@@ -174,7 +174,7 @@ const gotofaq = () => {
             <span onClick={() => {setTrack(null)}}><VscChromeClose /></span>
           </div>
           <div className="Shiparamatracking">
-            <span>Shiparama Tracking</span>
+            <span>Shiparamex Tracking</span>
             <span onClick={gotofaq}><span>FAQ </span> < IoIosArrowForward/></span>
           </div>
          
@@ -194,8 +194,8 @@ const gotofaq = () => {
             </div>
             <hr />
             <div className="headeoftracking">
-              <span>Get More Out of Shiparama Tracking:</span>
-              <span>Shiparama Tracking Plus</span>
+              <span>Get More Out of Shiparamex Tracking:</span>
+              <span>Shiparamex Tracking Plus</span>
             </div>
           </div>
 
@@ -215,7 +215,7 @@ const gotofaq = () => {
           </div>
 
           <div className="arrviedourfacility">
-            <span>Arrived at Shiparama Regional Facility</span>
+            <span>Arrived at Shiparamex Regional Facility</span>
             <span>{pkg.package_arrived_at_Shiparama_Facility}</span>
             <span>{pkg.package_arrived_at_Shiparama_Facility_date}</span>
           </div>
@@ -270,7 +270,7 @@ const gotofaq = () => {
         <div data-aos="fade-up" data-aos-duration="3000" className="whoare">
           <h2>Who We Are</h2>
           <h3>About Our Cargo Delivery</h3>
-          <p><strong>Shiparamalogistics  & Security Company</strong> is your global transportation management solution.
+          <p><strong>Shiparamexlogistics  & Security Company</strong> is your global transportation management solution.
 Our comprehensive services include order management, shipment tracking and tracing, business intelligence, and freight auditing.</p>
        
           <div className="botton">
@@ -303,7 +303,7 @@ Our comprehensive services include order management, shipment tracking and traci
              <div className="witep">
               <p>Fast Delivery</p>
             <span>
-When it comes to logistics, timely delivery is crucial for the success of your business. At Shiparamalogistics  & Security Company, we understand the importance of meeting deadlines and ensuring on-time delivery, everytime.</span>
+When it comes to logistics, timely delivery is crucial for the success of your business. At Shiparamexlogistics  & Security Company, we understand the importance of meeting deadlines and ensuring on-time delivery, everytime.</span>
           
              </div>
           </div>
@@ -313,7 +313,7 @@ When it comes to logistics, timely delivery is crucial for the success of your b
             </div>
             <div className="witep">
                <p>24/7 Telephone Support</p>
-            <span>At Shiparamalogistics  & Security Company, we understand the importance of seamless communication and round-the-clock assistance for our valued clients.</span>
+            <span>At Shiparamexlogistics  & Security Company, we understand the importance of seamless communication and round-the-clock assistance for our valued clients.</span>
           
             </div>
           </div>
@@ -345,7 +345,7 @@ When it comes to logistics, timely delivery is crucial for the success of your b
         <span>Extra Features</span>
         <h1>Unbeatable Tracking and Transport <span>Services</span></h1>
         <div>
-          <p>At Shiparamalogistics  & Security Company., we take great pride in offering unbeatable tracking and transport services that are designed to meet all your logistics needs. With our commitment to excellence and customer satisfaction, we have established ourselves as a trusted name in the industry.</p>
+          <p>At Shiparamexlogistics  & Security Company., we take great pride in offering unbeatable tracking and transport services that are designed to meet all your logistics needs. With our commitment to excellence and customer satisfaction, we have established ourselves as a trusted name in the industry.</p>
         </div>
       </div>
 

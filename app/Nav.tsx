@@ -33,7 +33,7 @@ export default function Nav() {
     e.preventDefault();
   
       // Send POST request
-      const res = await fetch("https://backend-c4vp.onrender.com/contact/", {
+      const res = await fetch("https://ironoak.biz/api/contact/", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ name, email, message }),

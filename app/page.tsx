@@ -169,9 +169,9 @@ const gotofaq = () => {
       </div>
 
              {track && (
-        <div className="trackngpage" onClick={() => {setTrack(null)}}>
+        <div className="trackngpage">
           <div className="closetracking">
-            <span ><VscChromeClose /></span>
+            <span onClick={() => {setTrack(null)}}><VscChromeClose /></span>
           </div>
           <div className="Shiparamatracking">
             <span>Shiparama Tracking</span>
@@ -193,8 +193,8 @@ const gotofaq = () => {
               <span>{pkg.Update_text}</span>
             </div>
             <hr />
-            <div>
-              <span>Get More Out of Shiparamalogistics Tracking:</span>
+            <div className="headeoftracking">
+              <span>Get More Out of Shiparama Tracking:</span>
               <span>Shiparama Tracking Plus</span>
             </div>
           </div>
@@ -209,7 +209,7 @@ const gotofaq = () => {
           </div>
 
           <div className="movingthroug">
-            <span>Moving Through Network</span>
+            <span >Moving Through Network</span>
             <span>In Transit to Next Facility</span>
             <span>{pkg.Add_date_to_next_facility}</span>
           </div>

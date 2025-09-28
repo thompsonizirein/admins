@@ -356,8 +356,6 @@ position: relative;
     justify-content: space-between;
     align-items: center;
     color: #ff4612;
-   
-    
 }
 
 .closetracking{
@@ -366,6 +364,7 @@ position: relative;
     justify-content: end;
     align-items: end;
     cursor: pointer;
+    font-weight: 800;
     color: red;
 }
 
@@ -441,6 +440,57 @@ position: relative;
     color: whitesmoke;
 }
 
+.headeoftracking{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0px;
+    font-size: 14px;
+}
+
+.arrviedourfacility{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+}
+
+.arrviedourfacility span:nth-child(1){
+    font-weight: 700;
+}
+
+.updated{
+    font-size: 15px;
+}
+.updated p{
+    font-size: 20px;
+    font-weight: 800;
+    color: #ff4612;
+}
+
+
+.arrived{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+}
+
+.preparingfor{
+    margin-block: 10px;
+    width: 80%;
+    font-size: 14px;
+    color: red;
+    font-weight: 600;
+}
+
+.movingthroug{
+    display: flex;
+    flex-direction: column;
+    margin-block: 10px;
+}
+
+.movingthroug span:nth-child(1){
+    color: #ff4612;
+    font-weight: 700;
+}
     
 
     .whoweae{
@@ -697,8 +747,7 @@ opacity: .7;
 
     .trackngpage{
         width: 90%;
-        /* right: 0; */
-        /* left: 0; */
+
         top: 1%;
     }
 

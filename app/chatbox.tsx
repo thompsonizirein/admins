@@ -10,7 +10,7 @@ export default function Chatbox() {
 
     return(
         <Chatlive className="chatwhatsap">
-         <Link href='https://wa.link/nv476w' target="_blank">
+         <Link href='https://wa.me/+13853616152?text=' target="_blank">
          <RiWhatsappFill />
          </Link>
         </Chatlive>
